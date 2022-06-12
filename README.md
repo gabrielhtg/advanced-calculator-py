@@ -6,7 +6,7 @@ Program ini dibuat dengan bahasa pemrograman Python. Program ini berfungsi sebag
     - Cosinus
     - Tangen
 
-![ss][ss.png]
+![ss](ss.png)
 
 ## <b>About Me</b>
 
